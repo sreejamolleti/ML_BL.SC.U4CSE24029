@@ -1,0 +1,17 @@
+Feature,Importance
+age,1.0
+clinical.T.Stage,0.0
+Clinical.N.Stage,0.0
+Clinical.M.Stage,0.0
+Overall.Stage_I,0.0
+Overall.Stage_II,0.0
+Overall.Stage_IIIa,0.0
+Overall.Stage_IIIb,0.0
+Overall.Stage_Missing,0.0
+Histology_Missing,0.0
+Histology_adenocarcinoma,0.0
+Histology_large cell,0.0
+Histology_nos,0.0
+Histology_squamous cell carcinoma,0.0
+gender_female,0.0
+gender_male,0.0
